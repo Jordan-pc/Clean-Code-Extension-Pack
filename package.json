@@ -1,0 +1,22 @@
+{
+    "name": "clean-code-extension-pack",
+    "displayName": "Clean Code Extension Pack",
+    "description": "Extension that improves clean code and good practices, as well as providing useful tools",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "quicktype.quicktype",
+        "EditorConfig.EditorConfig",
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint",
+        "vscode-icons-team.vscode-icons",
+        "ms-azuretools.vscode-docker",
+        ""
+    ]
+}
