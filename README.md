@@ -1,7 +1,12 @@
-# Clean Code Extension Pack ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+# Agilesoft Extension Pack ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 Extension that improves clean code and good practices, as well as providing useful tools
-> This pack will be updated as needed
+
+> Visual studio code
+
+> Extension Pack
+
+> Agilesoft
 
 ## Tabnine
 * Tabnine is the AI code completion tool trusted by millions of developers to code faster with fewer errors.

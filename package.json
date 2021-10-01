@@ -1,9 +1,8 @@
 {
-    "name": "clean-code-extension-pack",
-    "displayName": "Clean Code Extension Pack",
+    "name": "agilesoft-extension-pack",
+    "displayName": "Agilesoft Extension Pack",
     "description": "Extensions that improves clean code and good practices, as well as providing useful tools",
-    "version": "0.0.1",
-    "publisher": "Agilesoft-Clean-Extension",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.60.0"
     },
@@ -22,5 +21,12 @@
         "Gruntfuggly.todo-tree",
         "ChakrounAnas.turbo-console-log",
         "formulahendry.auto-close-tag"
-    ]
+    ],
+    "icon": "icons/logo-colors-agilesoft.jpg",
+    "author": {
+        "name": "Agilesoft",
+        "email": "contacto@agilesoft.cl",
+        "url": "https://agilesoft.cl/"
+    },
+    "publisher": "Agilesoft-publisher"
 }
