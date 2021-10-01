@@ -1,7 +1,35 @@
-# Clean Code Extension Pack
+# Clean Code Extension Pack ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 Extension that improves clean code and good practices, as well as providing useful tools
 > This pack will be updated as needed
+
+## Tabnine
+* Tabnine is the AI code completion tool trusted by millions of developers to code faster with fewer errors.
+
+How to use:
+
+[https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
+
+## Turbo Console Log
+* This extension make debugging much easier by automating the operation of writing meaningful log message.
+
+How to use:
+
+[https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
+
+## Todo Tree
+* This extension quickly searches (using ripgrep) your workspace for comment tags like TODO and FIXME, and displays them in a tree view in the explorer pane. Clicking a TODO within the tree will open the file and put the cursor on the line containing the TODO.
+
+How to use:
+
+[https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+
+## Auto Close Tag
+* Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text does.
+
+How to use:
+
+[https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
 ## Paste JSON as Code
 * Interactively generate types and (de-)serialization code from JSON, JSON Schema, and TypeScript
@@ -54,4 +82,16 @@ Market URL:
 
 [https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
+## Equipo
 
+Desarrollado por Agilesoft
+
+Agilesoft, creamos, agilizamos y protegemos tus proyectos.
+
+* contacto@agilesoft.cl
+
+Para más información acceder a : https://agilesoft.cl/
+
+<div align="center">
+  <a href="https://agilesoft.cl/" target="blank"><img src="https://agilesoft.cl/es/agilesoft-logo-white.5044a11b3fe81d52a227.png" width="320" alt="Agilesoft Logo" /></a>
+</div>

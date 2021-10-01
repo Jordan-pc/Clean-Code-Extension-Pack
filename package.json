@@ -1,8 +1,9 @@
 {
     "name": "clean-code-extension-pack",
     "displayName": "Clean Code Extension Pack",
-    "description": "Extension that improves clean code and good practices, as well as providing useful tools",
+    "description": "Extensions that improves clean code and good practices, as well as providing useful tools",
     "version": "0.0.1",
+    "publisher": "Agilesoft-Clean-Extension",
     "engines": {
         "vscode": "^1.60.0"
     },
@@ -16,6 +17,10 @@
         "esbenp.prettier-vscode",
         "dbaeumer.vscode-eslint",
         "vscode-icons-team.vscode-icons",
-        "ms-azuretools.vscode-docker"
+        "ms-azuretools.vscode-docker",
+        "TabNine.tabnine-vscode",
+        "Gruntfuggly.todo-tree",
+        "ChakrounAnas.turbo-console-log",
+        "formulahendry.auto-close-tag"
     ]
 }
